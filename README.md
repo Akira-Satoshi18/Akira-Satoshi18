@@ -1,12 +1,10 @@
 ## Hi there Bem vindos ao meu perfil 👋
 
-<!--
-**Akira-Satoshi18/Akira-Satoshi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**Me chamo ESter Stefany Nascimento, mas podem me chamar de Akira Stoshi; É um prazer te conhecer!!!
 - 🔭 Eu sou estudante do Ensino Medio
 - 🌱 Eu costumo trabalhar com o Alura
 - 👯 Estou me desenvolvendo na linguagem JavaScript
 - 🤔 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 -->
+-*VOCÊ PODE ENTRAR EM CONTATO COMIGO* 📫
+-esterstefany2024@gmail.com
